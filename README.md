@@ -1,4 +1,4 @@
-# 🧾 Python Restaurant Ordering System (Final Enhanced Version)
+# 🧾 Python Restaurant Ordering System 
 
 This is an interactive terminal-based Python project where users can place food orders from a small menu. It includes quantity input, real-time bill calculation, and a clean final summary. Built with simple conditionals and loops — perfect for beginners!
 
